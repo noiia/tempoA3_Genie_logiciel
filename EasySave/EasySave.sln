@@ -23,8 +23,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLogTreeStructure", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddSaveJob", "..\AddSaveJob\AddSaveJob.csproj", "{C75BBDD5-E813-4F91-AF77-AE3227732CEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddSaveJobs", "AddSaveJobs\AddSaveJobs.csproj", "{6C19AB07-E7E7-4FF8-8850-3C58997A0981}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,10 +69,6 @@ Global
 		{C75BBDD5-E813-4F91-AF77-AE3227732CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C75BBDD5-E813-4F91-AF77-AE3227732CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C75BBDD5-E813-4F91-AF77-AE3227732CEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6C19AB07-E7E7-4FF8-8850-3C58997A0981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C19AB07-E7E7-4FF8-8850-3C58997A0981}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C19AB07-E7E7-4FF8-8850-3C58997A0981}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C19AB07-E7E7-4FF8-8850-3C58997A0981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
