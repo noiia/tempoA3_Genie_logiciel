@@ -119,7 +119,7 @@ public class DirCopy
 
         public void CopyDir(string RootDir, string ToDir)
         {
-            ServiceLogTreeStructure.WriteFile(RootDir, ToDir);
+            // ServiceLogTreeStructure.WriteFile(RootDir, ToDir); #TODO decommenter cette ligne
             if (RootDir[RootDir.Length - 1] != '\\') RootDir += '\\';
             if (ToDir[ToDir.Length - 1] != '\\') ToDir += '\\';
             
